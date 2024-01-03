@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Invoice
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Invoice\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=PartNumber\ PartDescription\ Quantity\ pricePerItem
+comment1.target=Invoice(int,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=int\ getpricePerItem()
+comment2.params=
+comment2.target=int\ InvoiceAmount()
+comment3.params=PartNumber
+comment3.target=void\ setPartNumber(int)
+comment4.params=
+comment4.target=int\ getPartnumber()
+comment5.params=PartDescription
+comment5.target=void\ setPartDescription(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getParDescription()
+comment7.params=Quantity
+comment7.target=void\ setQuantity(int)
+comment8.params=
+comment8.target=int\ getQuantity()
+comment9.params=pricePerItem
+comment9.target=void\ setpricePerItem(int)
+numComments=11
